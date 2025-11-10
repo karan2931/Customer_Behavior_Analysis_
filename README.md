@@ -84,9 +84,7 @@ Data-driven recommendations helped improve profitability by 12% (simulated).
 
 ⚙️ How to Run
 
-Clone this repository
 
-git clone https://github.com/yourusername/ecommerce-sales-sql-project.git
 
 
 Open the project folder
@@ -113,7 +111,7 @@ Deploy dashboard on Power BI Service.
 
 👤 Author
 
-Your Name
+Karan Pandey
 📧 [pandeykaran976@gmail.com]
 
 🔗 [https://linkedin.com/in/karan-pandey-a3002a17a/]
