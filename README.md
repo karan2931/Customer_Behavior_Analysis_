@@ -85,8 +85,8 @@ Data-driven recommendations helped improve profitability by 12% (simulated).
 ⚙️ How to Run
 
 1. **Clone this repository**
-   ```bash
-   git clone https://github.com/yourusername/ecommerce-sales-sql-project.git
+   
+https://github.com/karan2931/Customer_Behavior_Analysis_.git
 
 
 Open the project folder
