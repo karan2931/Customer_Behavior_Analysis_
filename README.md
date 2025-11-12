@@ -2,7 +2,7 @@
 📘 Overview
 
 This project demonstrates a complete data analytics workflow for an e-commerce sales dataset. It involves data extraction, cleaning, exploratory data analysis (EDA), SQL querying, and dashboard creation to derive actionable business insights.
-The final deliverables include a Power BI dashboard and a presentation report built using Gamma.
+The final deliverables include a Power BI dashboard and a presentation report built.
 
 📂 Dataset
 
@@ -66,7 +66,7 @@ Profit trends and discount impact analysis
 
 5. Presentation
 
-Created a Gamma presentation summarizing key insights, visualizations, and business recommendations.
+Created a  presentation summarizing key insights, visualizations, and business recommendations.
 
 📊 Dashboard Snapshot
 
